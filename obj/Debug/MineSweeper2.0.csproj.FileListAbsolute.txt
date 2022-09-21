@@ -1,0 +1,31 @@
+G:\VS Repos\MineSweeper2\MineSweeper2.0\bin\Debug\MineSweeper2.0.exe.config
+G:\VS Repos\MineSweeper2\MineSweeper2.0\bin\Debug\MineSweeper2.0.exe
+G:\VS Repos\MineSweeper2\MineSweeper2.0\bin\Debug\MineSweeper2.0.pdb
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.AssemblyReference.cache
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.SuggestedBindingRedirects.cache
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MainWindow.g.cs
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\App.g.cs
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0_MarkupCompile.cache
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0_MarkupCompile.lref
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MainWindow.baml
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.g.resources
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2._0.Properties.Resources.resources
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.GenerateResource.cache
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.CoreCompileInputs.cache
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.exe
+G:\VS Repos\MineSweeper2\MineSweeper2.0\obj\Debug\MineSweeper2.0.pdb
+C:\Users\ntoep\Desktop\MineSweeper2.0\bin\Debug\MineSweeper2.0.exe.config
+C:\Users\ntoep\Desktop\MineSweeper2.0\bin\Debug\MineSweeper2.0.exe
+C:\Users\ntoep\Desktop\MineSweeper2.0\bin\Debug\MineSweeper2.0.pdb
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.AssemblyReference.cache
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MainWindow.g.cs
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\App.g.cs
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0_MarkupCompile.cache
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0_MarkupCompile.lref
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MainWindow.baml
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.g.resources
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2._0.Properties.Resources.resources
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.GenerateResource.cache
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.csproj.CoreCompileInputs.cache
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.exe
+C:\Users\ntoep\Desktop\MineSweeper2.0\obj\Debug\MineSweeper2.0.pdb

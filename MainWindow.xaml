@@ -1,0 +1,43 @@
+﻿<Window x:Class="MineSweeper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MineSweeper"
+        mc:Ignorable="d"
+        Title="MineSweeper" Height="600" Width="500">
+    <DockPanel LastChildFill="False">
+        <Menu Width="auto" Height="20" DockPanel.Dock="Top" x:Name="menu1">
+            <MenuItem Header="New" x:Name="New">
+                <MenuItem Header="5x5" x:Name="New5" Click="Five_Click"/>
+                <MenuItem Header="Hard 5x5" x:Name="New6" Click="FiveH_Click"/>
+                <MenuItem Header="7x7" x:Name="New7" Click="Seven_Click"/>
+                <MenuItem Header="Hard 7x7" x:Name="New8" Click="SevenH_Click"/>
+                <MenuItem Header="9x9" x:Name="New9" Click="Nine_Click"/>
+                <MenuItem Header="Hard 9x9" x:Name="New10" Click="NineH_Click"/>
+            </MenuItem>
+            <MenuItem Header="About" x:Name="Help" Click="Help_Click"></MenuItem>
+            <MenuItem Header="Load" x:Name="Load" Click="Load_Click"></MenuItem>
+            <MenuItem Header="Save" x:Name="SaveMenu">
+                <MenuItem Header="Save" x:Name="Save" IsEnabled="True" Click="Save_Click"></MenuItem>
+                <MenuItem Header="Save As" x:Name="SaveAs" Click="SaveAs_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="Profile" x:Name="Profile">
+                <MenuItem Header="View Profile" x:Name="ViewProfile" Click="Profile_Click"></MenuItem>
+                <MenuItem Header="Save Profile" x:Name="SaveProfile" Click="ProfileSave_Click"></MenuItem>
+                <MenuItem Header="Load Profile" x:Name="LoadProfile" Click="ProfileLoad_Click"></MenuItem>
+            </MenuItem>
+            
+            <MenuItem Header="Exit" x:Name="Exit" Click="Exit_Click"></MenuItem>
+            <MenuItem Header="|"></MenuItem>
+            <MenuItem Header="Bombs: 05" x:Name="Remainder" Click="Remain_Click"></MenuItem>
+            <MenuItem Header="Flags Placed: 000" x:Name="Placed" Click="Flags_Click"></MenuItem>
+
+
+
+        </Menu>
+        <Grid x:Name="Field">
+
+        </Grid>
+    </DockPanel>
+</Window>
